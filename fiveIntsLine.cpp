@@ -22,7 +22,6 @@ int main() {
         // Print the years in one row
         for (size_t j = 0; j < to_print.size(); j++) {
             std::cout << to_print[j] << " ";
-            
         }
         std::cout << "\n";
     }
